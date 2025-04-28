@@ -1,9 +1,9 @@
 # Full Waveform Inversion (FWI) with Deep Learning
 
-![Seismic Visualization](https://example.com/seismic-image.jpg) *(Replace with actual image if available)*
+![image](https://github.com/user-attachments/assets/33fd17ad-ad0e-4892-9553-661d5aa870e8)
 
 ## Project Overview
-This repository contains my implementation for the [FWI Machine Learning Competition](competition-link), where participants develop models to improve Full Waveform Inversion - a technique used in geophysics to map underground structures by analyzing seismic waves. The goal is to combine physics and machine learning to increase the speed and accuracy of subsurface imaging.
+This repository contains my implementation for the https://www.kaggle.com/competitions/waveform-inversion/?utm_medium=email&utm_source=gamma&utm_campaign=comp-waveform-2025, where participants develop models to improve Full Waveform Inversion - a technique used in geophysics to map underground structures by analyzing seismic waves. The goal is to combine physics and machine learning to increase the speed and accuracy of subsurface imaging.
 
 ## Key Features
 - **Hybrid Architecture**: Combines 1D CNNs for seismic data processing with 2D output for velocity model prediction
